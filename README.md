@@ -6,20 +6,17 @@
 
 
 ##Todo
-* Add touchstart event for mobile tap
+* <s>Add touchstart event for mobile tap</s>
 * <s>Change the load state for the `Add Item` to have the background state.</s>
 * <s>Remove all logic from html</s>
-* mouse out on list to hide minus#Eric
-* touchstart>tap>near minus>hide minus
+* <s>mouse out on list to hide minus</s>
+* <s>touchstart>tap>near minus>hide minus</s>
 * style>readable background>Dark/light text>oam display>light/dark text.
-* Check if game is already in the list
-#Roger 
+* <s>Check if game is already in the list</s>
 * touchstart > touchswipe
-#Eric
 * Borders, change, colors, css
-#Tom
-* converting functions to new and normal layout
-#Julian 
+* <s>converting functions to new and normal layout</s>
+
 ![sept16 whiteboard](http://i.imgur.com/dyyejPLm.jpg)
 ![sept16 whiteboard](http://i.imgur.com/0R0lqTVm.jpg)
 

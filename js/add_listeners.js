@@ -47,3 +47,13 @@ game_unordered_list.addEventListener('mouseleave', function(){
 
 
 add_mobile_event_listners('li');
+
+game_unordered_list.addEventListener('mouseleave', function(event){
+                   for (var i = 0;i < games.length; i++) {
+                       //alert(event.clientX);
+                   if (games[i].children.length===1){
+                       games[i].removeChild(games[i].children[0]);
+                       
+                }
+              }
+});

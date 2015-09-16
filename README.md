@@ -28,6 +28,13 @@
 > find a function or native JS example
 > to allow a swipe to delete the inventory item.
 
+#Bugs
+* multi-popups on swipe 
+* when space, it adds <li>
+
+#Fixed Bugs
+* trim white space For "ADDNEWGAME" (--SORRY--)c(SORRY)
+* prevent empty & null values for "ADD GAME" 
 
 
 ##Reference Code For Event Listner

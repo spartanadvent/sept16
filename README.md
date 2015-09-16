@@ -31,10 +31,12 @@
 #Bugs
 * multi-popups on swipe 
 * when space, it adds <li>
+* imput box, cut off on mobile size device
 
 #Fixed Bugs
 * trim white space For "ADDNEWGAME" (--SORRY--)c(SORRY)
 * prevent empty & null values for "ADD GAME" 
+* adjusted the imput box for mobile so would not be cut off
 
 
 ##Reference Code For Event Listner

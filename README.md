@@ -1,5 +1,5 @@
 #Gamestore Inventory JS App -
-#### v.002
+#### v.003
 
 ##User Interface Design Reference
 <http://geekwise.github.io/geekwise.js.edc.sept09/user_interface_design_reference.html>
@@ -20,7 +20,8 @@
 #Tom
 * converting functions to new and normal layout
 #Julian 
-![sept11 whiteboard](http://i.imgur.com/8czO9CWl.jpg)
+![sept16 whiteboard](http://i.imgur.com/dyyejPLm.jpg)
+![sept16 whiteboard](http://i.imgur.com/0R0lqTVm.jpg)
 
 ##Future Features To Add
 * Feature Name: Swipe to delete

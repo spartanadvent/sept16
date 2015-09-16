@@ -63,7 +63,7 @@ var add_minus_listener = function(){
 var start_swipe = 0;
 var end_swipe = 0;
 var threshold = 100;
-var y_threshold = 10;
+var y_threshold = 50;
 
 var function_loop_mouse_enter = function(){
 	for (var i= 0;i<game_list_item.length;i++){
@@ -95,7 +95,7 @@ var function_loop_mouse_enter = function(){
 };
 	
 	game_list_item[3].addEventListener('touchstart', function(event){ 
-		y_threshold = y_threshold + game_list_item[3].innerHeight
+		
 		start_swipe = event.touches[0].pageX;
 		start_swipe_y = event.touches[0].pageY;
 
